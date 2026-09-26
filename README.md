@@ -1,6 +1,7 @@
 # Simple Feed Builder
 
-A frontend-only social feed built with React + Vite. It loads demo users/posts from JSONPlaceholder and saves user-created posts, likes, and comments in browser localStorage. No MongoDB or backend required.
+InternId : CITS6572 Name: Keya Goyal Duration : 6 Weeks
+Project Scope : A frontend-only social feed built with React + Vite. It loads demo users/posts from JSONPlaceholder and saves user-created posts, likes, and comments in browser localStorage. No MongoDB or backend required.
 
 ## Run locally
 ```bash
